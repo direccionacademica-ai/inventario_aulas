@@ -1,0 +1,22 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+
+# Generated inspection exports and attachments
+inspeccion_*.json
+*.xlsx
+*.csv
+exportaciones/
+uploads/
+photos/
+
+# Logs and future build outputs
+*.log
+node_modules/
+dist/
+build/
