@@ -28,7 +28,11 @@ Abre `index.html` en un navegador. El formulario permite registrar identificaci�
 inventario-aulas-github/
 ├── index.html
 ├── README.md
-└── .gitignore
+├── .gitignore
+└── apps-script/
+    ├── Code.gs
+    ├── Index.html
+    └── appsscript.json
 ```
 
 ## Guardado compartido en Google Drive (Apps Script)
